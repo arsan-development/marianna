@@ -403,7 +403,7 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
                         <Spinner size="16px" className="mx-auto" />
                       </div>
                     ) : (
-                      'How can I help?'
+                      'EIVOA - Emotionally Intelligent Virtual Office Assistant'
                     )}
                   </div>
 
